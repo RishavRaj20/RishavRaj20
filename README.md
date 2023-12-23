@@ -1,4 +1,6 @@
-### Hi there, I'm Rishav. Nice to see you all👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 
 * 🔭 I’m currently an engineering student doing his bachelor's from IIT Bombay
