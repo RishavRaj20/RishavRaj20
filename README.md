@@ -1,5 +1,5 @@
 <p align="center">
-  <text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  Hey Everyone!🕹️
 </p>
 
 
