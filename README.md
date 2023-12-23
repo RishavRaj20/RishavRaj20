@@ -1,5 +1,5 @@
 <p align="center">
-  Hey Everyone!🕹️
+   <h1>Hey Everyone!🕹️</h1>
 </p>
 
 
