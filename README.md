@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning Data Science, Machine Learning and AI
 * 👯 I’m looking to collaborate on Data Analysis
 * 🤔 I’m looking for help with Machine Learning
-* 💬 Ask me about anything bro
+* 💬 Ask me about anything
 * 📫 How to reach me: email me at 2020raj.rishav@gmail.com
 * 😄 Pronouns: He/Him
 * ⚡ Tools: Git, Pytorch, Numpy
