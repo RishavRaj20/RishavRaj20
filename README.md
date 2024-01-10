@@ -5,7 +5,7 @@
    <a href="https://github.com/RishavRaj20?tab=repositories">
       <img src="https://github.com/RishavRaj20/RishavRaj20/assets/81917305/40591080-152f-4f65-9f37-7bb22765d1ac" width="100" />
    </a>
-   <a href="#Connect-With-Me">
+   <a href="https://www.linkedin.com/in/rishaviitb/">
   <img src="https://github.com/RishavRaj20/RishavRaj20/assets/81917305/aa192c87-76f7-4a24-bc2d-6f8de2920e8e" width="100" />
    </a>
 </p>
