@@ -2,7 +2,7 @@
   <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐-**what I need**">
      <img src="https://github.com/RishavRaj20/RishavRaj20/assets/81917305/9abdd20a-fc34-4f85-adf2-b7fde9900104" width="100" />
   </a>
-   <a href="#" link="https://github.com/RishavRaj20?tab=repositories">
+   <a href="https://github.com/RishavRaj20?tab=repositories">
       <img src="https://github.com/RishavRaj20/RishavRaj20/assets/81917305/40591080-152f-4f65-9f37-7bb22765d1ac" width="100" />
    </a>
    <a href="#Connect-With-Me">
